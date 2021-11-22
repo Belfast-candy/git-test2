@@ -10,5 +10,6 @@ public class App {
         System.out.println("master 3");
         System.out.println("hot-fix 1");
         System.out.println("master 4");
+        System.out.println("hot-fix 2");
     }
 }
